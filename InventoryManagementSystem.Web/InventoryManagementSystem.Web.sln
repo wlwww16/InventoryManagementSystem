@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "InventoryManagementSystem.Web", "InventoryManagementSystem.Web.esproj", "{5851138A-A153-4F36-B88F-AB6015CD81FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementSystem.API", "..\InventoryManagementSystem.API\InventoryManagementSystem.API.csproj", "{EA925349-EE2E-4541-8BED-D57E51CEB134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5851138A-A153-4F36-B88F-AB6015CD81FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5851138A-A153-4F36-B88F-AB6015CD81FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5851138A-A153-4F36-B88F-AB6015CD81FD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5851138A-A153-4F36-B88F-AB6015CD81FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5851138A-A153-4F36-B88F-AB6015CD81FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5851138A-A153-4F36-B88F-AB6015CD81FD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EA925349-EE2E-4541-8BED-D57E51CEB134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA925349-EE2E-4541-8BED-D57E51CEB134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA925349-EE2E-4541-8BED-D57E51CEB134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA925349-EE2E-4541-8BED-D57E51CEB134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {538268AE-583D-42A3-A4E0-D36C0B211CF9}
+	EndGlobalSection
+EndGlobal
